@@ -1,6 +1,6 @@
 # FiLM-Resnet
 
-📌 This repository contains the code used in our publication. The code is organized into modules for:
+📌 This repository contains the code used in our forthcoming publication. The code is organized into modules for:
 
 - Emulator training
 - Model embedding (forward and adjoint modes)
